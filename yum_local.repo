@@ -1,0 +1,6 @@
+####################################
+[yum_local]
+name=yum_local
+baseurl=file:///opt/smokeping-onekey/yum_local/
+enabled=1
+gpgcheck=0
